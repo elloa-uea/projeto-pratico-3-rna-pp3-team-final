@@ -1,0 +1,10 @@
+[{'configuracao': 1, 'fscore': 0.47116, 'media': 0.71824},
+ {'configuracao': 2, 'fscore': 0.47917, 'media': 0.71415},
+ {'configuracao': 3, 'fscore': 0.47931, 'media': 0.72023},
+ {'configuracao': 4, 'fscore': 0.54205, 'media': 0.73191},
+ {'configuracao': 5, 'fscore': 0.43238, 'media': 0.69712},
+ {'configuracao': 6, 'fscore': 0.42053, 'media': 0.69763},
+ {'configuracao': 7, 'fscore': 0.37515, 'media': 0.70391},
+ {'configuracao': 8, 'fscore': 0.35119, 'media': 0.69601},
+ {'configuracao': 9, 'fscore': 0.38398, 'media': 0.70683},
+ {'configuracao': 10, 'fscore': 0.41628, 'media': 0.71395}]
