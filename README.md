@@ -12,7 +12,7 @@ Ian Alves (igaps.eng17@uea.edu.br)
 
 ### Resumo:
 Esse foi um trabalho desenvolvido para a análise e aprendizado de redes neurais.  
-
+(Adicionar mais)
 
 ### Ferramentas utilizadas:
 [Python 3](https://www.python.org/)  
@@ -33,14 +33,15 @@ Para esse trabalho, cada notebook utilizou uma base de dados diferentes, alguns 
 Outros foram disponibilizados pelo [National Science Foundation](https://www.nsf.gov/) e pela [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)  
 
 No primeiro notebook, o conjunto de dados foi autogerado.  
-O segundo notebook, foi usado o [Covertype Data Set](https://archive.ics.uci.edu/ml/datasets/covertype).  
+No segundo e terceiro notebook, foi utilizado o [Covertype Data Set](https://archive.ics.uci.edu/ml/datasets/covertype).  
   
-Para utilizar esses dados apropiadamente, o grupo teve que importá-lo corretamente nos notebooks utilizados. Foram estes arquivos que proporcionaram as diferenças dos ambientes trabalhados.  
+Para utilizar esses dados apropriadamente, o grupo teve que importá-lo corretamente nos notebooks utilizados. Foram estes arquivos que proporcionaram as diferenças dos ambientes trabalhados.  
 
 ### Notebooks utilizados:
 O notebook jupyter utilizado está disponível no repositório, link abaixo.  
 [PP3 - Parte 1](https://github.com/elloa-uea/projeto-pratico-3-rna-pp3-team-final/blob/main/notebooks/PP3.1%20-%20Fun%C3%A7%C3%B5es%20de%20Ativa%C3%A7%C3%A3o.ipynb)  
 [PP3 - Parte 2](https://github.com/elloa-uea/projeto-pratico-3-rna-pp3-team-final/blob/main/notebooks/PP3.2%20-%20Conhecendo%20o%20Conjunto%20de%20Dados.ipynb)  
+[PP3 - Parte 3](https://github.com/elloa-uea/projeto-pratico-3-rna-pp3-team-final/blob/main/notebooks/PP3.2%20-%20Conhecendo%20o%20Conjunto%20de%20Dados.ipynb)
 
 ### Bibliografia:
 * Faceli et al. (2012) - Inteligência Artificial: Uma abordagem de aprendizado de máquina. Editora LTC. [Link](https://www.amazon.com.br/Machine-Learning-Algorithmic-Perspective-Recognition-ebook/dp/B00OGLE56Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=marsland+machine+learning&qid=1521553865&sr=1-1-spell&ref=sr_1_1)
